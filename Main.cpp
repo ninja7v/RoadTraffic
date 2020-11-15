@@ -2,8 +2,6 @@
 Car network representation by Luc PREVOST
 */
 
-#include <iostream>
-
 #include "Network.h"
 
 using namespace std;
